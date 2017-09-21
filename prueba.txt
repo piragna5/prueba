@@ -1,1 +1,1 @@
-el primer mensaje para el git
+el primer mensaje para el curso de git
